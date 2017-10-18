@@ -1,6 +1,11 @@
-# RFID
+# RFID Reader
 
-##Requirements
+MFRC522-python is a class to interface with the NFC reader Module MFRC522 on the Raspberry Pi.
+
+## Usage
+Import the class by importing MFRC522 in the top of your script. For more info see RFID.py file.
+
+## Requirements
 This code requires you to have SPI-Py installed from the following repository:
 https://github.com/lthiery/SPI-Py
 
